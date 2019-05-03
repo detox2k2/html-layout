@@ -1,0 +1,40 @@
+body {
+    background: rgb(214, 211, 211); 
+}
+
+.top{
+    box-sizing: border-box;
+    background: rgba(0, 0, 255, 0.534); 
+    display: inline-block;
+    height: 10vh;
+    width: 10vw;
+}
+.text {
+   background: white; 
+   padding: 30px;
+   margin-top: 5px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 16pt;
+}
+.bow{
+    display: inline-block;
+}
+.one, .two, .three, .four {
+    height: 10vh;
+    width: 98.5vw;
+    box-sizing: border-box;
+}
+
+.one{
+    background: rgba(0, 0, 255, 0.534); 
+}
+.two {
+    background: rgba(0, 255, 191, 0.534); 
+}
+
+.three {
+    background: rgb(179, 255, 0);
+}
+.four {
+    background: yellow;
+}
